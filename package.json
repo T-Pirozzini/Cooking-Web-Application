@@ -1,7 +1,7 @@
 {
   "name": "cooking-ninja",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://t-pirozzini.github.io/Cooking-Web-Application/",
   "proxy": "http://localhost:3000",
   "dependencies": {
