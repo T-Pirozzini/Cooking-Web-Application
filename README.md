@@ -3,7 +3,10 @@ Add, update, search and delete recipes.
 React/Firebase
 
 ## Live Demo
-[Cooking Web Application](https://t-pirozzini.github.io/Cooking-Web-Application/)
+[Cooking Web Application](https://T-Pirozzini.github.io/Cooking-Web-Application/)
+
+## Live Demo
+[Spuddies Restaurant](https://T-Pirozzini.github.io/restaurant-page/)
 
 ## Code Tutorial: 
 NetNinja: Udemy - React/Firebase Course (Cooking Ninja)
