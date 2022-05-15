@@ -7,13 +7,16 @@ import Create from './pages/create/Create'
 import Search from './pages/search/Search'
 import Recipe from './pages/recipe/Recipe'
 import ThemeSelector from './components/ThemeSelector'
+import { useTheme } from './hooks/useTheme'
 
 // styles
 import './App.css'
 
 function App() {
+  const { mode } = useTheme()
+
   return (
-    <div className="App">
+    <div className={`App ${mode}`}>
       <BrowserRouter>
       <Navbar />
       <ThemeSelector />
