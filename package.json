@@ -1,9 +1,7 @@
 {
   "name": "cooking-ninja",
   "version": "0.1.0",
-  "private": false,
-  "homepage": "https://t-pirozzini.github.io/Cooking-Web-Application/",
-  "proxy": "http://localhost:3000",
+  "private": false,  
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
@@ -19,9 +17,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"    
   },
   "eslintConfig": {
     "extends": [
@@ -40,8 +36,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^3.2.3"
-  }
+  }  
 }
