@@ -3,6 +3,8 @@ import { useTheme } from '../hooks/useTheme'
 
 // styles
 import './Navbar.css'
+
+// components
 import Searchbar from './Searchbar'
 
 
