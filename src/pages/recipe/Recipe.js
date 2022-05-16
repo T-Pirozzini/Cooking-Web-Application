@@ -46,7 +46,7 @@ export default function Recipe() {
           <h2 className="page-title">{recipe.title}</h2>
           <p>Takes {recipe.cookingTime} to cook.</p>
           <ul>
-            {recipe.ingredients.map(ing => <li key={ing}>ing</li>)}
+            {recipe.ingredients.map(ing => <li key={ing}>{ing}</li>)}
           </ul>
           <p className="method">{recipe.method}</p>
           <button onClick={handleClick}>Update me</button>
