@@ -3,6 +3,9 @@ Add, update, search and delete recipes.
 Navbar color themes and light/dark mode using context.
 #### React/Firebase
 
+## :video_camera: Live Demo
+<a href="https://cooking-web-application.firebaseapp.com/">Click Here!</a>
+
 ## :camera: Screenshots
 Dark Mode
 !["Dark Mode"](https://github.com/T-Pirozzini/Cooking-Web-Application/blob/main/src/assets/dark-mode.png?raw=true)
